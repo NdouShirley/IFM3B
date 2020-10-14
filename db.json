@@ -1,0 +1,27 @@
+{
+  "login": [
+    {
+      "id": "Shirley",
+      "password": "12445",
+      "full_name": "Shirley",
+      "room_type": "Standard",
+      "price": "R500"
+    },
+    {
+      "id": "Thelma",
+      "password": "12345",
+      "full_name": "Thelma",
+      "room_type": "Single",
+      "price": "R1000"
+    },
+    {
+      "id": "Karabo",
+      "password": "12345",
+      "full_name": "Karabo",
+      "room_type": "Single",
+      "price": "R1000"
+    }
+    
+    ]
+    
+    }
