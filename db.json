@@ -15,6 +15,13 @@
       "price": "R1000"
     },
     {
+      "id": "themba.guest",
+      "password": "12345",
+      "full_name": "Themba",
+      "room_type": "Suite",
+      "price": "R2000"
+    },
+    {
       "id": "Karabo",
       "password": "12345",
       "full_name": "Karabo",
